@@ -2,7 +2,7 @@
 - 👀 I’m interested in building new projects. 
 - 🌱 I’m currently learning various utilizations of AI. 
 - 🧐 I’m looking to collaborate on different projects via internships. 
-- 📫 How to reach me -                            ayandey2285@gmail.com
+- 📫 How to reach me -      ayandey2285@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
