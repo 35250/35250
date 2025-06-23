@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning various utilizations of AI. 
 - 🧐 I’m looking to collaborate on different projects via internships and job opportunities. 
 - 📫 How to reach me -      ayandey2285@gmail.com
+- LinkedIn Profile - www.linkedin.com/in/
+ayandey212105242
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
