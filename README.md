@@ -33,7 +33,7 @@
 ### 📌 Pinned Projects
 
 - 🔗 [AI Hiring Assistant Chatbot](https://github.com/35250/ai-hiring-assistant)
-- 🔗 [Modern Portfolio Website](https://github.com/35250/modern-portfolio)
+- 🔗 [Modern Portfolio Website](https://github.com/35250/modern-portfolio-website)
 - 🔗 [YouTube Summarizer API](https://github.com/35250/youtube-summarizer-api)
 
 ---
