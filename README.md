@@ -8,7 +8,17 @@
 ---
 
 ### 🚀 About Me
+I’m a 2nd-year Computer Science student focused on building a strong foundation in Software Engineering and problem-solving.
 
+ 💻 Currently, I have solved 150+ problems on Data Structures & Algorithms in C++, with a focus on improving problem-solving ability, pattern recognition, and writing clean, optimized code.
+
+🚀 Alongside DSA, I am working towards developing a deeper understanding of backend engineering by building projects from scratch, focusing on concepts like APIs, databases, and system-level thinking.
+
+📌 My current areas of focus:• Data Structures & Algorithms (LeetCode practice)• Backend Development (APIs, DBMS basics)• Core CS Fundamentals (OOP, DBMS)
+
+🧠 I have previously explored AI-based tools and APIs (such as LLM integrations) during an internship experience, which helped me understand how modern applications are built using external services.
+
+🚀 I am actively preparing for Software Engineering internships (2026) and continuously working on improving both my coding skills and engineering depth.
 
 ---
 
