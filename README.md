@@ -2,18 +2,13 @@
 
 <p align="center">
   <b>AI/ML Enthusiast | Full-Stack Developer | 2nd Year B.Tech CSE (AI/ML)</b><br>
-  <i>Actively seeking paid remote internships & collaborative tech projects</i>
+  <i>Actively preparing for internships </i>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE (AI/ML), 2nd Year at UEM Kolkata
-- 🤖 Passionate about building real-world AI tools and intuitive web apps
-- 🛠️ Currently working with Python, Streamlit, Supabase, FastAPI, and full-stack web tech
-- 🌱 Learning advanced ML, LLM integration, and scalable backend systems
-- 💡 Aspiring to launch an AI startup solving underserved, high-impact problems
 
 ---
 
