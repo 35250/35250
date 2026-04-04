@@ -24,14 +24,17 @@ I’m a 2nd-year Computer Science student focused on building a strong foundatio
 
 ### 🔨 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/-DSA-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white)
+![Object Oriented Programming](https://img.shields.io/badge/-OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+![DBMS](https://img.shields.io/badge/-DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-28A745?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Competitive Programming](https://img.shields.io/badge/-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
