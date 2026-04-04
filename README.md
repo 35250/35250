@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayan Dey 👋</h1>
 
 <p align="center">
-  <b>Asporing Software Developer | 150+ DSA problems solved | 2nd Year B.Tech CSE (AI/ML)</b><br>
+  <b>Aspiring Software Developer | 150+ DSA problems solved | 2nd Year B.Tech CSE (AI/ML)</b><br>
   <i>Actively preparing for internships </i>
 </p>
 
