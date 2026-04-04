@@ -38,14 +38,6 @@ I’m a 2nd-year Computer Science student focused on building a strong foundatio
 
 ---
 
-### 📌 Pinned Projects
-
-- 🔗 [AI Hiring Assistant Chatbot](https://github.com/35250/ai-hiring-assistant)
-- 🔗 [Modern Portfolio Website](https://github.com/35250/modern-portfolio-website)
-- 🔗 [YouTube Summarizer API](https://github.com/35250/youtube-summarizer-api)
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayandey212105242)
