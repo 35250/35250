@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayan Dey 👋</h1>
 
 <p align="center">
-  <b>Aspiring Software Developer | 150+ DSA problems solved | 2nd Year B.Tech CSE (AI/ML)</b><br>
+  <b>Aspiring Software Developer | 200+ DSA problems solved | 2nd Year B.Tech CSE (AI/ML)</b><br>
   <i>Actively preparing for internships </i>
 </p>
 
@@ -10,7 +10,7 @@
 ### 🚀 About Me
 I’m a 2nd-year Computer Science student focused on building a strong foundation in Software Engineering and problem-solving.
 
- 💻 Currently, I have solved 150+ problems on Data Structures & Algorithms in C++, with a focus on improving problem-solving ability, pattern recognition, and writing clean, optimized code.
+ 💻 Currently, I have solved 200+ problems on Data Structures & Algorithms in C++, with a focus on improving problem-solving ability, pattern recognition, and writing clean, optimized code.
 
 🚀 Alongside DSA, I am working towards developing a deeper understanding of backend engineering by building projects from scratch, focusing on concepts like APIs, databases, and system-level thinking.
 
